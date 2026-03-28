@@ -2,7 +2,7 @@ import sys
 import os
 from google import genai
 
-GOOGLE_API_KEY = "AIzaSyAVaAzLFpSW7018b9pu6-15S9r3Uoo2b0s"
+GOOGLE_API_KEY = "SUA CHAVE API AQUI"
 client = genai.Client(api_key=GOOGLE_API_KEY)
 
 def processar_arquivo(caminho_arquivo):
