@@ -18,7 +18,7 @@ Nesta primeira versão (MVP), o script manipula o Registro do Windows para adici
 
 1. Clone o repositório:
 ```bash
-git clone [https://github.com/SEU_USUARIO/SmartFolders-AI-MVP.git](https://github.com/SEU_USUARIO/SmartFolders-AI-MVP.git)
+git clone [(https://github.com/oreiagr/SmartFolders-AI-MVP.git)]
 
 2 Instale a dependência da API:
 pip install google-genai
